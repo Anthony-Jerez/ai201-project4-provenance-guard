@@ -22,6 +22,14 @@ Provenance Guard is a backend that provides services for writing platforms to us
 - **Rate limiting:** Flask-Limiter (in-memory storage)
 - **Storage / audit log:** SQLite
 
+## Video
+
+<p align="center">
+  <a href="https://youtu.be/uLqdLbXxG_g">
+    <img src="https://img.youtube.com/vi/uLqdLbXxG_g/maxresdefault.jpg" alt="Demo" width="70%">
+  </a>
+</p>
+
 ## Setup
 
 ```
